@@ -1,4 +1,4 @@
-<body style="background-color: yellow;">
+<body style="background-color:yellow;">
   
 # Czasopismo MATINF
 
