@@ -1,5 +1,5 @@
 # Czasopismo MATINF
 
-## Cele
+## Cel
 
 Próba porządkowania powszechnie znanych pomysłów i idei programowania i informatyki.
