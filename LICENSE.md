@@ -4,4 +4,4 @@ Redakcja może wyrazić zgodę na takie wykorzystanie podczas bezpośredniego z 
 
 Redakcja nie udziela gwarancji związanych z jakością treści zawartych w numerach lub rocznikach czasopisma MATINF.
 
-Redakcja wstępnie wyraża zgodę na czytanie czasopisma MATINF poprzez przeglądarkę internetową w serwisie GitHub (https://github.com).
+Redakcja wstępnie wyraża zgodę na czytanie czasopisma MATINF poprzez przeglądarkę internetową w serwisie GitHub (https://github.com) oraz czytanie wersji czasopisma MATINF drukowanych przez Redakcję.
