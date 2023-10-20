@@ -2,4 +2,4 @@
 
 ## Cel
 
-Próba porządkowania powszechnie znanych pomysłów i idei programowania i informatyki.
+Próba porządkowania powszechnie znanych pomysłów i idei matematyki, programowania, informatyki.
