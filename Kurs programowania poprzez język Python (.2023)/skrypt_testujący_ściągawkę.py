@@ -259,4 +259,50 @@ print(tablica_translacji)
 print("123123".translate(tablica_translacji))
 print("123\t4512\t3123".expandtabs(4))
 
+#***** LICZBY *****#
+wypisz("#***** WEJŚCIE WYJŚCIE *****#")
+
+#x = input("Podaj liczbę: ")
+#y = input("Podja druga liczbę: ")
+#print("Suma: " + str(float(x) + float(y)))
+#print("Suma: {} iloczyn: {}".format(str(float(x)+float(y)), str(float(x)*float(y))))
+#print("Lista: {}".format(repr([1,2,3,4,5])))
+
+#help()
+#help("str")
+
+#***** KLASY, OBIEKTY, ATRYBUTY *****#
+wypisz("#***** KLASY, OBIEKTY, ATRYBUTY *****#")
+
+l = [1,2,3,4,5]
+print(dir(l))
+print(isinstance(dir(l), list))
+# co opisuje bez parametrow?
+print(dir())
+print(id(l))
+print(hash((1,2,3,4,5)))
+
+#input()
+
+print(locals())
+print(globals())
+print(isinstance(locals(), dict))
+print(isinstance(globals(), dict))
+print(issubclass(locals().__class__, dict))
+print(issubclass(globals().__class__, dict))
+print(callable(locals()))
+
+wypisz("\nsetattr, delattr, getattr: ")
+class A:
+    pass
+
+a = A()
+print(dir(a))
+setattr(a, "wymiar_x", 10)
+setattr(a, "wymiar_y", 20)
+print(dir(a))
+print(hasattr(a, "wymiar_x") and hasattr(a, "wymiar_y"))
+print(getattr(a, "wymiar_x"), getattr(a, "wymiar_y"))
+delattr(a, "wymiar_y")
+print(hasattr(a, "wymiar_x"), hasattr(a, "wymiar_y"))
 
