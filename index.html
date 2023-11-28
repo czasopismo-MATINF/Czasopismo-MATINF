@@ -1,1 +1,89 @@
-index.html test
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+	<head profile="http://gmpg.org/xfn/11">
+		<link rel="stylesheet" href="style.css" type="text/css" media="screen" />
+
+		<script type="text/javascript" src="javascript/jquery.js"></script>
+	</head>
+
+<body>
+
+<script type="text/javascript">
+
+	var defaultTitleHover = "Szablon oraz obrazki na stronie z pierwszej dekady XXI wieku. Dobrane wtedy - bez zmian - przez Redakcję. Adres w banerze archiwalny.";
+	
+	var images = [1,1,1,1,1,1,1,1];
+	var imagesFiles = [
+		['chest.jpg', 'flower.jpg'],
+		['knot.jpg', 'bird.jpg'],
+		['jolly.jpg', 'laptop.jpg'],
+		['bottle.jpg', 'phone.jpg'],
+		['spaceshuttleeva.jpg', 'palm.jpg'],
+		['arcdetriomphe.jpg', 'pineapple.jpg'],
+		['map.jpg', 'sunset.jpg'],
+		['pacificwalrus.jpg', 'fish.jpg']
+	];
+	var page = [0,0];
+	
+	function getPageSource(page) {
+		if(page == 'mapy') {
+			return '<a href="mapy.html">MAPY</a>';
+		}
+	}
+	
+	function getPage(i, j) {
+		if(page[0] == 6 && page[1] == 0) {
+			return getPageSource('mapy');
+		}
+		return '' + i + ' ' + j;
+	}
+	
+	function pictureChange(img, newImg) {
+		images[newImg] = (images[newImg] + 1) % 2;
+		img.src = "img/" + imagesFiles[newImg][images[newImg]];
+		page = [newImg, images[newImg]];
+		document.getElementById("output").innerHTML = getPage(page[0],page[1]);
+	}
+	
+</script>
+
+	<div id="page-container">
+
+		<div id="cx-gate"></div>
+
+		<div id="cx-left">
+			<div class="cxf" onmouseover="" onmouseout=""><a class="menuLink" href="" onclick="return false;">	<img onmouseover="pictureChange(this, 0);"		onmouseout=""	class="menuImage" src="img/flower.jpg" ></a></div>
+			<div class="cxf" onmouseover="" onmouseout=""><a class="menuLink" href="" onclick="return false;">	<img onmouseover="pictureChange(this, 1);"		onmouseout=""	class="menuImage" src="img/bird.jpg" ></a></div>
+			<div class="cxf" onmouseover="" onmouseout=""><a class="menuLink" href="" onclick="return false;">	<img onmouseover="pictureChange(this, 2);"		onmouseout=""	class="menuImage" src="img/laptop.jpg" ></a></div>
+			<div class="cxf" onmouseover="" onmouseout=""><a class="menuLink" href="" onclick="return false;">	<img onmouseover="pictureChange(this, 3);"		onmouseout=""	class="menuImage" src="img/phone.jpg" ></a></div>
+		</div>
+
+		<div id="cx-right">
+			<div class="cxf" onmouseover="" onmouseout=""><a class="menuLink" href="" onclick="return false;">	<img onmouseover="pictureChange(this, 4);"	onmouseout=""	class="menuImage" src="img/palm.jpg" ></a></div>
+			<div class="cxf" onmouseover="" onmouseout=""><a class="menuLink" href="" onclick="return false;">	<img onmouseover="pictureChange(this, 5);"	onmouseout=""	class="menuImage" src="img/pineapple.jpg" ></a></div>
+			<div class="cxf" onmouseover="" onmouseout=""><a class="menuLink" href="" onclick="return false;">	<img onmouseover="pictureChange(this, 6);"	onmouseout=""	class="menuImage" src="img/sunset.jpg" ></a></div>
+			<div class="cxf" onmouseover="" onmouseout=""><a class="menuLink" href="" onclick="return false;">	<img onmouseover="pictureChange(this, 7);"	onmouseout=""	class="menuImage" src="img/fish.jpg" ></a></div>
+		</div>
+
+		<div id="top-margin">
+			<div class="clear"></div>
+		</div>
+
+		<div id="page-content">
+
+			<div id="masthead">
+				<div class="banner"><img class="banner" src="img/banner.png"/><img class="rightBanner" src="img/shells.jpg"/></div>
+			</div>
+
+			<div id="column-container">
+				<div id="left-column">
+					<div id="output" class="inside-column">Szablon oraz obrazki na stronie z pierwszej dekady XXI wieku. Dobrane wtedy - bez zmian - przez Redakcję.</div>
+				</div>
+			</div>
+
+		</div>
+
+	</body>
+</html>
