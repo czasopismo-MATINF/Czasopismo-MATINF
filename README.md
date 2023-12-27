@@ -12,7 +12,7 @@ https://www.legimi.pl/
 
 https://www.empik.com/
 
-Czasopismo w serwisie GitHub, Inc. będzie ukazywać się ze znacznym opóźnieniem.
+Pliki pomocnicze bedą publikowane w serwisie GitHub, Inc. w podobnym czasie, co aktualne numery, ale samo czasopismo w serwisie GitHub, Inc. będzie ukazywać się ze znacznym opóźnieniem.
 
 
 ## Info. w systemie firmy Legimi S.A.
@@ -24,6 +24,7 @@ systematyczne kursy podstaw programowania, matematyki, algebry i analizy matemat
 W roczniku 2023/2024 Redakcja Czasopisma MATINF publikuje szkice z drugiej części książki S.Lang'a "Algebra" o teorii Galois, szkice z tomu pierwszego książki G.M.Fichtenholz'a "Rachunek różniczkowy i całkowy", do samodzielnej nauki kursy programowania poprzez języki Python oraz Java w oparciu o uproszczone środowisko programistyczne Processing oraz różne sprawozdania z przeglądania informacji w sieci Internet.
 
 Plik obejmuje cały, do sierpnia uaktualniany rocznik Czasopisma MATINF z aktualnym numerem na początku. Publikacja w okolicach ostatniego poniedziałku miesiąca poprzedzającego. Redakcja Czasopisma MATINF z góry przeprasza za błędy ortograficzne, interpunkcyjne, składniowe, stylistyczne. Redakcja Czasopisam MATINF nie udziela żadnych gwarancji jakości treści.
+
 
 ## Info. w systemie Grupy EMPIK
 
