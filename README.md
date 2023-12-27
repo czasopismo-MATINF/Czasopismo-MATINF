@@ -12,7 +12,7 @@ https://www.legimi.pl/
 
 https://www.empik.com/
 
-Pliki pomocnicze bedą publikowane w serwisie GitHub, Inc. w podobnym czasie, co aktualne numery - w okolicach ostatniego poniedziałku poprzedzającego miesiąca, ale samo czasopismo w serwisie GitHub, Inc. będzie ukazywać się ze znacznym opóźnieniem.
+Pliki pomocnicze bedą publikowane w serwisie GitHub, Inc. w podobnym czasie, co aktualne numery - w okolicach ostatniego poniedziałku poprzedzającego miesiąca, ale samo czasopismo w serwisie GitHub, Inc. będzie ukazywać się ze znacznym - rocznym - opóźnieniem.
 
 
 ## Info. w systemie firmy Legimi S.A.
