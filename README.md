@@ -6,7 +6,7 @@ Próba porządkowania powszechnie znanych pomysłów i idei matematyki, programo
 
 
 ## Uwaga !
-Z przełomem lat 2023 i 2024 Redakcja Czasopisma MATINF przenosi jego publikację do systemów firmy Legimi S.A. oraz Grupy EMPIK:
+Z przełomem lat 2023 i 2024 Redakcja Czasopisma MATINF przenosi jego publikację oraz dystrybucję głównie do systemów firmy Legimi S.A. oraz Grupy EMPIK:
 
 https://www.legimi.pl/
 
