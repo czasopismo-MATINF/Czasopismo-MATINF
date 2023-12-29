@@ -21,7 +21,7 @@ Cele Czasopisma MATINF: systematyczne kursy podstaw programowania, matematyki, a
 
 W roczniku 2023/2024 Redakcja Czasopisma MATINF publikuje szkice z drugiej części książki S.Lang'a "Algebra" o teorii Galois, szkice z tomu pierwszego książki G.M.Fichtenholz'a "Rachunek różniczkowy i całkowy", do samodzielnej nauki kursy programowania poprzez języki Python oraz Java w oparciu o uproszczone środowisko programistyczne Processing oraz różne sprawozdania z przeglądania informacji w sieci Internet.
 
-Plik obejmuje cały, do sierpnia uaktualniany rocznik Czasopisma MATINF z aktualnym numerem na początku. Publikacja w okolicach ostatniego poniedziałku miesiąca poprzedzającego. Redakcja Czasopisma MATINF z góry przeprasza za błędy ortograficzne, interpunkcyjne, składniowe, stylistyczne. Redakcja Czasopisma MATINF nie udziela żadnych gwarancji jakości treści.
+Plik obejmuje cały, do sierpnia uaktualniany rocznik Czasopisma MATINF z aktualnym numerem na początku. Publikacja w okolicach ostatniego poniedziałku miesiąca poprzedzającego. Redakcja Czasopisma MATINF z góry przeprasza za błędy ortograficzne, interpunkcyjne, składniowe, stylistyczne, ... Redakcja Czasopisma MATINF nie udziela żadnych gwarancji jakości treści.
 
 
 ## Info. w systemie Grupy EMPIK
