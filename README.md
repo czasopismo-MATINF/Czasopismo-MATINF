@@ -7,7 +7,7 @@ Próba porządkowania powszechnie znanych pomysłów i idei matematyki, programo
 
 ## Czytelnik
 
-Osoba samodzielnie ucząca się, student. Kto czytając prezentowane książki chce sprawdzać poziom zrozumienia ich treści.
+Osoba samodzielnie ucząca się, student. Kto czytając prezentowane książki chce sprawdzać poziom rozumienia ich treści.
 
 
 ## Uwaga !
