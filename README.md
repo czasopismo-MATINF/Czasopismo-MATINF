@@ -5,6 +5,11 @@
 Próba porządkowania powszechnie znanych pomysłów i idei matematyki, programowania, informatyki.
 
 
+## Czytelnik
+
+Osoba samodzielnie ucząca się, student. Kto czytając prezentowane książki chce sprawdzać poziom zrozumienia ich treści.
+
+
 ## Uwaga !
 Z przełomem lat 2023 i 2024 Redakcja Czasopisma MATINF przenosi jego publikację oraz dystrybucję przede wszystkim do systemów firmy Legimi S.A. oraz Grupy EMPIK:
 
