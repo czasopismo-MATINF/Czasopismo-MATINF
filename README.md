@@ -10,6 +10,11 @@ Próba porządkowania powszechnie znanych pomysłów i idei matematyki, programo
 Osoba samodzielnie ucząca się, student. Kto czytając prezentowane książki oraz strony chce sprawdzać poziom rozumienia ich treści.
 
 
+## Wydawnictwo
+
+Czasopismo MATINF uważa się za wydawnictwo, które publikuje czasopismo o tytule "Czasopismo MATINF", ale też inne niewielkie publikacje.
+
+
 ## Uwaga !
 Z przełomem lat 2023 i 2024 Redakcja Czasopisma MATINF przenosi jego publikację oraz dystrybucję przede wszystkim do systemów firmy Legimi S.A. oraz Grupy EMPIK:
 
