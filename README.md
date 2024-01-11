@@ -20,8 +20,8 @@ Z przeÅ‚omem lat 2023 i 2024 Redakcja Czasopisma MATINF przenosi jego publikacjÄ
 
 https://www.legimi.pl/
 
-Rocznik 2023/2024 (Legimi):
-https://www.legimi.pl/ebook-rocznik-czasopisma-matinf-2023-2024-redakcja-czasopisma-matinf,b1150441.html
+Publikacje Czasopisma MATINF w Legimi:
+https://www.legimi.pl/wydawnictwo/czasopismo-matinf,pd48096/
 
 https://www.empik.com/
 
