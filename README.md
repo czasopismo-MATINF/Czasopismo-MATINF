@@ -19,10 +19,14 @@ Czasopismo MATINF uważa się za wydawnictwo, które publikuje czasopismo o tytu
 Z przełomem lat 2023 i 2024 Redakcja Czasopisma MATINF przenosi jego publikację oraz dystrybucję przede wszystkim do systemów firmy Legimi S.A. oraz Grupy EMPIK:
 
 https://www.legimi.pl/
-Rocznik 2023/2024 na Legimi:
+
+Rocznik 2023/2024 (Legimi):
 https://www.legimi.pl/ebook-rocznik-czasopisma-matinf-2023-2024-redakcja-czasopisma-matinf,b1150441.html
 
 https://www.empik.com/
+
+Rocznik 2023/2024 (EMPIK):
+https://www.empik.com/czasopismo-matinf-2023-2024-redakcja-czasopisma-matinf,p1445208965,ebooki-i-mp3-p
 
 Pliki pomocnicze bedą publikowane w serwisie GitHub, Inc. w podobnym czasie co aktualne numery - w okolicach ostatniego poniedziałku poprzedzającego miesiąca, ale samo czasopismo w serwisie GitHub, Inc. będzie ukazywać się ze znacznym opóźnieniem.
 
