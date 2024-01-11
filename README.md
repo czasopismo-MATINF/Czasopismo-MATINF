@@ -26,7 +26,7 @@ https://www.legimi.pl/ebook-rocznik-czasopisma-matinf-2023-2024-redakcja-czasopi
 https://www.empik.com/
 
 Rocznik 2023/2024 (EMPIK):
-https://www.empik.com/czasopismo-matinf-2023-2024-redakcja-czasopisma-matinf,p1445208965,ebooki-i-mp3-p
+https://www.empik.com/rocznik-czasopisma-matinf-2023-2024-redakcja-czasopisma-matinf,p1447922856,ebooki-i-mp3-p
 
 Pliki pomocnicze bedą publikowane w serwisie GitHub, Inc. w podobnym czasie co aktualne numery - w okolicach ostatniego poniedziałku poprzedzającego miesiąca, ale samo czasopismo w serwisie GitHub, Inc. będzie ukazywać się ze znacznym opóźnieniem.
 
