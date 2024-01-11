@@ -19,6 +19,8 @@ Czasopismo MATINF uważa się za wydawnictwo, które publikuje czasopismo o tytu
 Z przełomem lat 2023 i 2024 Redakcja Czasopisma MATINF przenosi jego publikację oraz dystrybucję przede wszystkim do systemów firmy Legimi S.A. oraz Grupy EMPIK:
 
 https://www.legimi.pl/
+Rocznik 2023/2024 na Legimi:
+https://www.legimi.pl/ebook-rocznik-czasopisma-matinf-2023-2024-redakcja-czasopisma-matinf,b1150441.html
 
 https://www.empik.com/
 
