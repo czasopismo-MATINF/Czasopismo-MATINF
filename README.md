@@ -48,6 +48,6 @@ Klub Książek Serg'a Lang'a
 
 Rozproszony Uniwersytet Matematyki, Techniki, Przyrody
 
-Rozproszony Uniwersytet Matematyczno-Techniczno-Przyrodniczy
+Rozproszony Uniwersytet Matematyczno-Techniczno-Przyrodniczy (R.U.M.-T.-P.)
 
 
