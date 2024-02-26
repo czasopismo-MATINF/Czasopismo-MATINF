@@ -44,7 +44,9 @@ Plik obejmuje cały, do sierpnia uaktualniany rocznik Czasopisma MATINF z aktual
 
 Klub Książek Serg'a Lang'a
 
-## R.U.M.-T.-P.
+## R.U.M.T.P. (propozycja)
 
-Rozproszony Uniwersytet Matematyczno-Techniczno-Przyrodniczy (propozycja)
+Rozproszony Uniwersytet Matematyki, Techniki, Przyrody
+Rozproszony Uniwersytet Matematyczno-Techniczno-Przyrodniczy
+
 
