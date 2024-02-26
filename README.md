@@ -30,7 +30,7 @@ https://www.empik.com/szukaj/produkt?publisherFacet=czasopismo+matinf
 
 Pliki pomocnicze bedą publikowane w serwisie GitHub, Inc. w podobnym czasie co aktualne numery - w okolicach ostatniego poniedziałku poprzedzającego miesiąca, ale samo czasopismo w serwisie GitHub, Inc. będzie ukazywać się ze znacznym opóźnieniem.
 
-## Cele
+## Cele Czasopisma MATINF (szerzej)
 
 Cele Czasopisma MATINF: systematyczne kursy podstaw programowania, matematyki, algebry i analizy matematycznej, artykuły o takowej tematyce; recenzje książek do nauki, narzędzi do programowania, listy zasobów informatycznych, serwisów internetowych; zestawienia wiedzy ogólnej, sprawozdania z wyszukiwania informacji w sieci Internet; po dwudziestu latach wybuchu programistycznego niepotrzebna już promocja programowania, ale powrót na jego podstawowy poziom i znalezienie miejsca dla jego podstaw przy potwornie zwiększającym się stopniu skomplikowania algorytmów oraz narzędzi programistycznych; systematyczny zbiór powszechnie znanych pomysłów i idei; obrazowanie interdyscyplinarnego podejścia do nauki z przewagą matematyki oraz informatyki; próby tworzenia wielogałęziowej podstawy nauczania; obrazowanie sposobu tworzenia notatek z wykładów;
 
