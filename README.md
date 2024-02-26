@@ -46,8 +46,8 @@ Klub Książek Serg'a Lang'a
 
 ## R.U.M.T.P. (propozycja)
 
-Rozproszony Uniwersytet Matematyki, Techniki, Przyrody
+Rozproszony Uniwersytet Matematyki, Techniki, Przyrody (propozycja)
 
-Rozproszony Uniwersytet Matematyczno-Techniczno-Przyrodniczy (R.U.M.-T.-P.)
+Rozproszony Uniwersytet Matematyczno-Techniczno-Przyrodniczy (R.U.M.-T.-P.) (propozycja)
 
 
