@@ -43,6 +43,10 @@ Plik obejmuje cały, do sierpnia uaktualniany rocznik Czasopisma MATINF z aktual
 
 Klub Książek Serg'a Lang'a
 
+## K.F.MIT.O.C.
+
+Klub Fanów MIT Open Courseware
+
 ## R.U.M.T.P. (propozycja)
 
 Rozproszony Uniwersytet Matematyki, Techniki, Przyrody (propozycja)
