@@ -37,6 +37,8 @@ Pliki pomocnicze bedą publikowane w serwisie GitHub, Inc. w podobnym czasie co 
 
 W roczniku 2023/2024 Redakcja Czasopisma MATINF publikuje szkice z drugiej części książki S.Lang'a "Algebra" o teorii Galois, szkice z tomu pierwszego książki G.M.Fichtenholz'a "Rachunek różniczkowy i całkowy", do samodzielnej nauki kursy programowania poprzez języki Python oraz Java w oparciu o uproszczone środowisko programistyczne Processing oraz różne sprawozdania z przeglądania informacji w sieci Internet.
 
+W numerze specjalnym s0/2024 Czasopisma MATINF Redakcja Czasopisma MATINF prezentuje przemyślenia z procesu przygotowywania prostego studenckiego projektu zaliczeniowego - współbieżnej gry turowej w sterowanie grupą robotów-łazików mających do wykonania przydzielone wspólne zadanie zebrania próbek skał i powrotu na Ziemię.
+
 W roczniku 2024/2025 Redakcja Czasopisma MATINF publikuje szkice z tomu drugiego książki G.M.Fichtenholz'a "Rachunek różniczkowy i całkowy", do samodzielnej nauki kurs programowania poprzez język Javascript, przemyślenia z lektury "Fizyka" Dawida Halliday’a i Roberta Resnick’a oraz dodatkowe artykuły komponujące całość proponowanego programu nauczania.
 
 Plik obejmuje cały, do sierpnia uaktualniany rocznik Czasopisma MATINF z aktualnym numerem na początku, nie uwzględnia numerów specjalnych. Publikacja w okolicach ostatniego poniedziałku miesiąca poprzedzającego. Redakcja Czasopisma MATINF z góry przeprasza za błędy ortograficzne, interpunkcyjne, składniowe, stylistyczne, ... Redakcja Czasopisma MATINF nie udziela żadnych gwarancji jakości treści.
