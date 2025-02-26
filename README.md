@@ -43,9 +43,9 @@ W roczniku 2024/2025 Redakcja Czasopisma MATINF publikuje szkice z tomu drugiego
 
 Plik obejmuje cały, do sierpnia uaktualniany rocznik Czasopisma MATINF z aktualnym numerem na początku, nie uwzględnia numerów specjalnych. Publikacja w okolicach ostatniego poniedziałku miesiąca poprzedzającego. Redakcja Czasopisma MATINF z góry przeprasza za błędy ortograficzne, interpunkcyjne, składniowe, stylistyczne, ... Redakcja Czasopisma MATINF nie udziela żadnych gwarancji jakości treści.
 
-## K.K.S.L.
+## K.F.K.S.L.
 
-Klub Książek Serg'a Lang'a
+Klub Fanów Książek Serge'a Lang'a
 
 ## K.F.MIT.O.C.
 
