@@ -47,9 +47,9 @@ Plik obejmuje cały, do sierpnia uaktualniany rocznik Czasopisma MATINF z aktual
 
 Klub Fanów Książek Serge'a Lang'a
 
-## K.F.MIT.OCW.
+## K.F.MITOCW.
 
-Klub Fanów MIT OpenCourseware
+Klub Fanów MIT OpenCourseWare
 
 ## R.U.M.T.P. (propozycja)
 
