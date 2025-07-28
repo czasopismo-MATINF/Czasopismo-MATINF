@@ -41,6 +41,8 @@ W numerze specjalnym s0/2024 Czasopisma MATINF Redakcja Czasopisma MATINF prezen
 
 W roczniku 2024/2025 Redakcja Czasopisma MATINF publikuje szkice z tomu drugiego książki G.M.Fichtenholz'a "Rachunek różniczkowy i całkowy", do samodzielnej nauki kurs programowania poprzez język Javascript, przemyślenia z lektury "Fizyka" Dawida Halliday’a i Roberta Resnick’a oraz dodatkowe artykuły komponujące całość proponowanego programu nauczania.
 
+W roczniku 2025/2026 Redakcja Czasopisma MATINF publikuje szkice z tomu drugiego książki G.M.Fichtenholz'a "Rachunek różniczkowy i całkowy", przemyślenia z lektury "Fizyka" Dawida Halliday’a i Roberta Resnick’a oraz dodatkowe artykuły o różnych "polecanych", komponujące całość proponowanego programu nauczania.
+
 Plik obejmuje cały, do sierpnia uaktualniany rocznik Czasopisma MATINF z aktualnym numerem na początku, nie uwzględnia numerów specjalnych. Publikacja w okolicach ostatniego poniedziałku miesiąca poprzedzającego. Redakcja Czasopisma MATINF z góry przeprasza za błędy ortograficzne, interpunkcyjne, składniowe, stylistyczne, ... Redakcja Czasopisma MATINF nie udziela żadnych gwarancji jakości treści.
 
 ## K.F.K.S.L.
