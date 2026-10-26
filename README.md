@@ -43,6 +43,8 @@ W roczniku 2024/2025 Redakcja Czasopisma MATINF publikuje szkice z tomu drugiego
 
 W roczniku 2025/2026 Redakcja Czasopisma MATINF publikuje szkice z tomu trzeciego książki G.M.Fichtenholz'a "Rachunek różniczkowy i całkowy", przemyślenia z lektury "Fizyka" Dawida Halliday’a i Roberta Resnick’a oraz dodatkowe artykuły o różnych "polecanych", komponujące całość proponowanego programu nauczania.
 
+W roczniku 2026/2027 Redakcja Czasopisma MATINF publikuje kolejne przemyślenia z lektury "Fizyka" Dawida Halliday’a i Roberta Resnick’a oraz sprawozdania dwóch cykli dotyczących teorii języków i kompilatorów oraz sieci neuronowych mających na celu próbę umożliwienia uczenia się tych teorii razem z Redakcją.
+
 Plik obejmuje cały, do sierpnia uaktualniany rocznik Czasopisma MATINF z aktualnym numerem na początku, nie uwzględnia numerów specjalnych. Publikacja w okolicach ostatniego poniedziałku miesiąca poprzedzającego. Redakcja Czasopisma MATINF z góry przeprasza za błędy ortograficzne, interpunkcyjne, składniowe, stylistyczne, ... Redakcja Czasopisma MATINF nie udziela żadnych gwarancji jakości treści.
 
 ## K.F.K.S.L.
